@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 540" width="800" height="540">
+  <rect width="800" height="540" rx="16" fill="#F4EBDD"/>
+  <rect x="16" y="16" width="768" height="508" rx="12" fill="none" stroke="#173C29" stroke-width="2" stroke-dasharray="8 6" stroke-opacity="0.4"/>
+
+  <!-- Cutout Card 1: Tree -->
+  <g transform="translate(85, 85)">
+    <rect width="185" height="230" rx="14" fill="#FFFFFF" stroke="#D1C1AA" stroke-width="2" stroke-dasharray="6 4"/>
+    <polygon points="92,40 42,165 142,165" fill="#1B4D35"/>
+    <polygon points="92,35 52,120 132,120" fill="#256446"/>
+    <rect x="82" y="165" width="20" height="24" fill="#7D4E2D"/>
+    <circle cx="92" cy="35" r="9" fill="#E5B546"/>
+    <circle cx="75" cy="95" r="6" fill="#9E1E28"/>
+    <circle cx="110" cy="105" r="6" fill="#E5B546"/>
+    <circle cx="68" cy="142" r="6" fill="#E5B546"/>
+    <circle cx="115" cy="145" r="6" fill="#9E1E28"/>
+  </g>
+
+  <!-- Cutout Card 2: Bell & Wreath -->
+  <g transform="translate(307, 85)">
+    <rect width="185" height="230" rx="14" fill="#FFFFFF" stroke="#D1C1AA" stroke-width="2" stroke-dasharray="6 4"/>
+    <circle cx="92" cy="118" r="56" fill="none" stroke="#1B4D35" stroke-width="24"/>
+    <circle cx="92" cy="62" r="14" fill="#9E1E28"/>
+    <path d="M78,65 L65,95 L88,80 Z" fill="#9E1E28"/>
+    <path d="M106,65 L119,95 L96,80 Z" fill="#9E1E28"/>
+    <circle cx="55" cy="100" r="6" fill="#E5B546"/>
+    <circle cx="130" cy="100" r="6" fill="#E5B546"/>
+    <circle cx="60" cy="150" r="6" fill="#9E1E28"/>
+    <circle cx="125" cy="150" r="6" fill="#9E1E28"/>
+  </g>
+
+  <!-- Cutout Card 3: Holiday Star & Ornament -->
+  <g transform="translate(530, 85)">
+    <rect width="185" height="230" rx="14" fill="#FFFFFF" stroke="#D1C1AA" stroke-width="2" stroke-dasharray="6 4"/>
+    <circle cx="92" cy="124" r="54" fill="#9E1E28"/>
+    <rect x="82" y="58" width="20" height="14" rx="3" fill="#D4A03E"/>
+    <path d="M40,124 Q66,104 92,124 T144,124" fill="none" stroke="#F6D57A" stroke-width="4"/>
+    <circle cx="72" cy="100" r="5" fill="#FAF4E8"/>
+    <circle cx="112" cy="148" r="5" fill="#FAF4E8"/>
+  </g>
+
+  <text x="400" y="382" text-anchor="middle" fill="#4A3B2C" font-family="Montserrat, Arial, sans-serif" font-size="18">
+    Figuras listas para recortar y decorar regalos, cuadernos, aulas y mesas
+  </text>
+
+  <rect x="130" y="438" width="540" height="50" rx="25" fill="#173C29"/>
+  <text x="400" y="469" text-anchor="middle" fill="#FAF5EC" font-family="Montserrat, Arial, sans-serif" font-size="20" font-weight="bold">
+    4. Paquete de Recortes Decorativos Navideños
+  </text>
+</svg>

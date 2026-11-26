@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 540" width="800" height="540">
+  <rect width="800" height="540" rx="16" fill="#FAF3E6"/>
+  <rect x="16" y="16" width="768" height="508" rx="12" fill="none" stroke="#9E1E28" stroke-width="2" stroke-opacity="0.35"/>
+  <!-- 4 Colorful Holiday Houses Row -->
+  <g transform="translate(65, 115)">
+    <polygon points="10,85 80,25 150,85" fill="#9E1E28"/>
+    <rect x="22" y="85" width="116" height="125" rx="4" fill="#D94B43"/>
+    <rect x="42" y="108" width="30" height="34" rx="4" fill="#FCE592" stroke="#FAF3E6" stroke-width="2"/>
+    <rect x="88" y="108" width="30" height="34" rx="4" fill="#FCE592" stroke="#FAF3E6" stroke-width="2"/>
+    <rect x="64" y="160" width="32" height="50" rx="16" fill="#173C29" stroke="#FAF3E6" stroke-width="2"/>
+  </g>
+  <g transform="translate(235, 100)">
+    <polygon points="10,95 80,25 150,95" fill="#173C29"/>
+    <rect x="22" y="95" width="116" height="130" rx="4" fill="#2A6F4E"/>
+    <circle cx="80" cy="68" r="13" fill="#FCE592"/>
+    <rect x="42" y="118" width="30" height="34" rx="4" fill="#FCE592" stroke="#FAF3E6" stroke-width="2"/>
+    <rect x="88" y="118" width="30" height="34" rx="4" fill="#FCE592" stroke="#FAF3E6" stroke-width="2"/>
+    <rect x="64" y="170" width="32" height="55" rx="4" fill="#9E1E28" stroke="#FAF3E6" stroke-width="2"/>
+  </g>
+  <g transform="translate(405, 115)">
+    <polygon points="10,85 80,25 150,85" fill="#8C1A23"/>
+    <rect x="22" y="85" width="116" height="125" rx="4" fill="#E2A83B"/>
+    <rect x="42" y="108" width="30" height="34" rx="4" fill="#FFF7DA" stroke="#8C1A23" stroke-width="2"/>
+    <rect x="88" y="108" width="30" height="34" rx="4" fill="#FFF7DA" stroke="#8C1A23" stroke-width="2"/>
+    <rect x="64" y="160" width="32" height="50" rx="16" fill="#8C1A23" stroke="#FAF3E6" stroke-width="2"/>
+  </g>
+  <g transform="translate(575, 105)">
+    <polygon points="10,90 80,25 150,90" fill="#B57D24"/>
+    <rect x="22" y="90" width="116" height="125" rx="4" fill="#A62639"/>
+    <rect x="42" y="112" width="30" height="34" rx="15" fill="#FCE592" stroke="#FAF3E6" stroke-width="2"/>
+    <rect x="88" y="112" width="30" height="34" rx="15" fill="#FCE592" stroke="#FAF3E6" stroke-width="2"/>
+    <rect x="64" y="165" width="32" height="50" rx="4" fill="#173C29" stroke="#FAF3E6" stroke-width="2"/>
+  </g>
+  <!-- Snow strip -->
+  <rect x="50" y="325" width="700" height="16" rx="8" fill="#E8DCCB"/>
+  <rect x="110" y="438" width="580" height="50" rx="25" fill="#9E1E28"/>
+  <text x="400" y="469" text-anchor="middle" fill="#FAF5EC" font-family="Montserrat, Arial, sans-serif" font-size="20" font-weight="bold">
+    3. Paquete con 30 Modelos de Casitas Coloridas
+  </text>
+</svg>

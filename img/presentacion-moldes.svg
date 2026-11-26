@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 560" width="720" height="560">
+  <rect width="720" height="560" rx="16" fill="#F4EBDD"/>
+  <rect x="14" y="14" width="692" height="532" rx="12" fill="none" stroke="#C8963E" stroke-width="2" stroke-dasharray="8 6"/>
+
+  <!-- Printable Sheet 1 (Back Left) -->
+  <g transform="translate(75, 70) rotate(-6)">
+    <rect width="260" height="350" rx="6" fill="#FFFFFF" stroke="#D5C7B2" stroke-width="2"/>
+    <rect x="20" y="22" width="220" height="18" rx="3" fill="#1B4330"/>
+    <!-- Cutout house template lines -->
+    <polygon points="75,115 130,65 185,115" fill="#9E1E28" stroke="#4A3B2C" stroke-width="1.5" stroke-dasharray="4 3"/>
+    <rect x="85" y="115" width="90" height="85" fill="#F9E8C8" stroke="#4A3B2C" stroke-width="1.5" stroke-dasharray="4 3"/>
+    <!-- Glue flaps -->
+    <polygon points="85,115 70,125 70,190 85,200" fill="#EFE5D5" stroke="#7D6B57" stroke-width="1" stroke-dasharray="3 3"/>
+    <polygon points="175,115 190,125 190,190 175,200" fill="#EFE5D5" stroke="#7D6B57" stroke-width="1" stroke-dasharray="3 3"/>
+    <rect x="102" y="135" width="22" height="26" fill="#D4A03E"/>
+    <rect x="136" y="135" width="22" height="26" fill="#D4A03E"/>
+    <!-- Bottom accessories on sheet -->
+    <polygon points="65,295 45,295 55,250" fill="#1F5239"/>
+    <polygon points="115,295 95,295 105,245" fill="#1F5239"/>
+    <circle cx="175" cy="272" r="22" fill="#9E1E28"/>
+  </g>
+
+  <!-- Printable Sheet 2 (Front Right) -->
+  <g transform="translate(335, 85) rotate(4)">
+    <rect width="280" height="365" rx="6" fill="#FFFFFF" stroke="#C5B49B" stroke-width="2.5"/>
+    <rect x="22" y="22" width="236" height="22" rx="4" fill="#9E1E28"/>
+    <text x="140" y="37" text-anchor="middle" fill="#FAF5EC" font-family="Montserrat, Arial, sans-serif" font-size="12" font-weight="bold">MOLDES EN JPG PARA IMPRIMIR</text>
+    <!-- Unfolded 3D House Net -->
+    <g transform="translate(35, 65)">
+      <polygon points="55,45 95,10 135,45" fill="#8C1A23" stroke="#5A4A3A" stroke-width="1.5" stroke-dasharray="4 3"/>
+      <rect x="10" y="45" width="45" height="75" fill="#E8D7BE" stroke="#5A4A3A" stroke-width="1.5"/>
+      <rect x="55" y="45" width="80" height="75" fill="#FAF0E1" stroke="#5A4A3A" stroke-width="1.5"/>
+      <rect x="135" y="45" width="45" height="75" fill="#E8D7BE" stroke="#5A4A3A" stroke-width="1.5"/>
+      <rect x="75" y="65" width="18" height="22" fill="#D4A03E"/>
+      <rect x="102" y="65" width="18" height="22" fill="#D4A03E"/>
+      <rect x="87" y="94" width="16" height="26" rx="8" fill="#183F2B"/>
+    </g>
+    <!-- Characters & Trees to cutout -->
+    <g transform="translate(35, 215)">
+      <rect x="5" y="0" width="200" height="110" rx="8" fill="#FAF6EE" stroke="#D1C2AC" stroke-width="1.5" stroke-dasharray="5 4"/>
+      <polygon points="48,88 22,88 35,35" fill="#1B4B33"/>
+      <circle cx="95" cy="52" r="14" fill="#9E1E28"/>
+      <rect x="83" y="66" width="24" height="24" rx="5" fill="#9E1E28"/>
+      <circle cx="155" cy="52" r="14" fill="#C8932C"/>
+      <rect x="143" y="66" width="24" height="24" rx="5" fill="#1B4B33"/>
+    </g>
+  </g>
+
+  <!-- Label Pill -->
+  <rect x="110" y="475" width="500" height="48" rx="24" fill="#183F2B"/>
+  <text x="360" y="505" text-anchor="middle" fill="#FAF5EC" font-family="Montserrat, Arial, sans-serif" font-size="18" font-weight="bold">
+    Láminas Digitales Listas para Imprimir y Recortar
+  </text>
+</svg>
