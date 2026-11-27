@@ -24,7 +24,7 @@
   <g transform="translate(335, 85) rotate(4)">
     <rect width="280" height="365" rx="6" fill="#FFFFFF" stroke="#C5B49B" stroke-width="2.5"/>
     <rect x="22" y="22" width="236" height="22" rx="4" fill="#9E1E28"/>
-    <text x="140" y="37" text-anchor="middle" fill="#FAF5EC" font-family="Montserrat, Arial, sans-serif" font-size="12" font-weight="bold">MOLDES EN JPG PARA IMPRIMIR</text>
+    <text x="140" y="37" text-anchor="middle" fill="#FAF5EC" font-family="Montserrat, Arial, sans-serif" font-size="12" font-weight="bold">MOLDES EM JPG PARA IMPRIMIR</text>
     <!-- Unfolded 3D House Net -->
     <g transform="translate(35, 65)">
       <polygon points="55,45 95,10 135,45" fill="#8C1A23" stroke="#5A4A3A" stroke-width="1.5" stroke-dasharray="4 3"/>
@@ -49,6 +49,6 @@
   <!-- Label Pill -->
   <rect x="110" y="475" width="500" height="48" rx="24" fill="#183F2B"/>
   <text x="360" y="505" text-anchor="middle" fill="#FAF5EC" font-family="Montserrat, Arial, sans-serif" font-size="18" font-weight="bold">
-    Láminas Digitales Listas para Imprimir y Recortar
+    Folhas Digitais Prontas para Imprimir e Recortar
   </text>
 </svg>
