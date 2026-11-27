@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 960" width="540" height="960">
+  <rect width="540" height="960" rx="20" fill="#FAF4E8"/>
+  <rect x="18" y="18" width="504" height="924" rx="14" fill="#FDFBF7" stroke="#CF9B38" stroke-width="2" stroke-dasharray="10 8"/>
+  <rect x="110" y="444" width="320" height="72" rx="36" fill="#143524" stroke="#CF9B38" stroke-width="2"/>
+  <text x="270" y="487" text-anchor="middle" fill="#FAF4E8" font-family="Montserrat, Arial, sans-serif" font-size="22" font-weight="700">
+    Depoimento em breve
+  </text>
+</svg>

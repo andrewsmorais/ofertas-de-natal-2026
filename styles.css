@@ -1151,3 +1151,76 @@ p {
     font-size: 1.05rem;
   }
 }
+
+
+/* ==========================================================================
+   SEÇÃO DE PROVAS SOCIAIS (PRINTS VERTICAIS DE WHATSAPP)
+   Oculta por padrão com atributo [hidden] até a inclusão de depoimentos reais
+   ========================================================================== */
+.testimonials-section[hidden] {
+  display: none !important;
+}
+
+.testimonials-section {
+  padding: 4.5rem 0;
+  background-color: var(--cream-100);
+  border-bottom: 1px solid var(--cream-300);
+}
+
+.testimonials-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.75rem;
+  max-width: var(--container-max);
+  margin: 0 auto;
+  align-items: start;
+}
+
+.testimonial-card {
+  background-color: var(--cream-50);
+  border: 1.5px solid var(--gold-500);
+  border-radius: var(--radius-lg);
+  padding: 0.85rem;
+  box-shadow: var(--shadow-md);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.testimonial-media {
+  width: 100%;
+  border-radius: calc(var(--radius-lg) - 6px);
+  overflow: hidden;
+  background-color: var(--cream-100);
+}
+
+.testimonial-media img {
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+  display: block;
+}
+
+.testimonial-placeholder-label {
+  margin-top: 0.65rem;
+  margin-bottom: 0.15rem;
+  font-family: var(--font-display);
+  font-size: 0.92rem;
+  font-weight: 700;
+  color: var(--ink-500);
+  text-align: center;
+}
+
+@media (max-width: 900px) {
+  .testimonials-grid {
+    grid-template-columns: 1fr;
+    max-width: 420px;
+    gap: 1.5rem;
+  }
+}
+
+@media (max-width: 600px) {
+  .testimonials-section {
+    padding: 3.25rem 0;
+  }
+}
