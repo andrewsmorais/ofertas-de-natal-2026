@@ -686,27 +686,32 @@ p {
   border-bottom: 1px solid var(--cream-300);
 }
 
+.kit-contents-section .container {
+  max-width: 1320px;
+}
+
 .kit-items-stack {
   display: flex;
   flex-direction: column;
   gap: 2.25rem;
-  max-width: 1060px;
+  max-width: 1280px;
   margin: 0 auto;
 }
 
 .kit-item-card {
   display: grid;
-  grid-template-columns: 1.22fr 1fr;
-  gap: 2.25rem;
+  grid-template-columns: 1.85fr 1fr;
+  gap: 2rem;
   align-items: center;
   background-color: var(--cream-100);
   border: 2px solid var(--cream-300);
   border-radius: var(--radius-lg);
-  padding: 2rem;
+  padding: 1.5rem;
   box-shadow: var(--shadow-md);
 }
 
 .kit-item-card--featured {
+  grid-template-columns: 1.55fr 1fr;
   background-color: var(--pine-900);
   color: var(--cream-50);
   border-color: var(--gold-500);
