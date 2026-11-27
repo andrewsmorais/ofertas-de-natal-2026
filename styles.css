@@ -678,21 +678,21 @@ p {
 .kit-items-stack {
   display: flex;
   flex-direction: column;
-  gap: 1.75rem;
-  max-width: 860px;
+  gap: 2.25rem;
+  max-width: 1060px;
   margin: 0 auto;
 }
 
 .kit-item-card {
   display: grid;
-  grid-template-columns: 290px 1fr;
-  gap: 1.75rem;
+  grid-template-columns: 1.22fr 1fr;
+  gap: 2.25rem;
   align-items: center;
   background-color: var(--cream-100);
-  border: 1.5px solid var(--cream-300);
+  border: 2px solid var(--cream-300);
   border-radius: var(--radius-lg);
-  padding: 1.35rem;
-  box-shadow: var(--shadow-sm);
+  padding: 2rem;
+  box-shadow: var(--shadow-md);
 }
 
 .kit-item-card--featured {
@@ -712,19 +712,29 @@ p {
 }
 
 .kit-item-media {
+  width: 100%;
   border-radius: var(--radius-md);
   overflow: hidden;
-  border: 1px solid rgba(207, 155, 56, 0.45);
+  border: 1.5px solid rgba(207, 155, 56, 0.55);
   background-color: var(--cream-50);
+  box-shadow: var(--shadow-sm);
+}
+
+.kit-item-media img {
+  width: 100%;
+  height: auto;
+  display: block;
 }
 
 .kit-item-body h3 {
-  margin-bottom: 0.5rem;
+  font-size: clamp(1.35rem, 2.3vw, 1.68rem);
+  margin-bottom: 0.7rem;
 }
 
 .kit-item-body p {
+  font-size: 1.08rem;
   color: var(--ink-700);
-  margin-bottom: 0.75rem;
+  margin-bottom: 1rem;
 }
 
 .kit-item-card--featured .kit-item-body p {
@@ -737,8 +747,8 @@ p {
   margin: 0;
   display: flex;
   flex-direction: column;
-  gap: 0.4rem;
-  font-size: 0.96rem;
+  gap: 0.6rem;
+  font-size: 1.04rem;
 }
 
 .kit-item-details li {
@@ -1056,11 +1066,13 @@ p {
 
   .kit-item-card {
     grid-template-columns: 1fr;
-    gap: 1.25rem;
+    gap: 1.5rem;
+    padding: 1.35rem;
   }
 
   .kit-item-media {
-    max-width: 440px;
+    width: 100%;
+    max-width: 100%;
     margin: 0 auto;
   }
 
